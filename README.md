@@ -1,9 +1,9 @@
-- 👋 Hi, my name is Hitesh Sharma.
-- I am from Ambala city,Haryana and i did my graduation in the field of BCA from KUK university.
+- Hi, My name is Hitesh Sharma.
+- I am from Ambala,Haryana and I did my graduation in the field of BCA from KUK university.
 - I have some skills in JS,HTML,CSS,DOCKER,NETWORKING,SQL,PROBLEM SOLVING.
-- I am seeking an opportunity where i can utilize or upgrade my skills in the field of development
-- 💞️ I’m looking to collaborate on any project. 
-- 📫 How to reach me akshit.26112002@gmail.com
+- I am seeking an opportunity where i can contribute my skills for development purpose.
+- I’m open and looking for collaboration on any project. 
+- How to reach me akshit.26112002@gmail.com.
 
 
 <!---
